@@ -32,7 +32,7 @@ public class Student {
         return address;
     }
     public static void main(String[]args){
-        Student Abhi = new Student("Abhi",25,"23 East,California");
+        Student Abhi = new Student("Abhiram",25,"23 East,California");
 
         System.out.println(Abhi.getName());
         System.out.println(Abhi.getAge());
